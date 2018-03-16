@@ -1,0 +1,2407 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Snapshot test 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-12"
+    >
+      <nav
+        className="navbar navbar-light bg-light"
+      >
+        <span
+          className="navbar-brand mb-0 h1"
+        >
+          Movies
+        </span>
+      </nav>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-12"
+    >
+      <div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-12"
+          >
+            <div
+              className="card-group d-flex flex-wrap"
+            >
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Harry Potter and the Chamber of Secrets"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://harrypotter.warnerbros.com/"
+                    target="_blank"
+                  >
+                    Harry Potter and the Chamber of Secrets
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Chris Columbus
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Griffiths
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      15 Nov 2002
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.4
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Harry Potter and the Deathly Hallows: Part 2"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.HarryPotter.com/"
+                    target="_blank"
+                  >
+                    Harry Potter and the Deathly Hallows: Part 2
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      David Yates
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      15 Jul 2011
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      8.1
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Harry Potter and the Sorcerer's Stone"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://movies.warnerbros.com/awards/harry.html"
+                    target="_blank"
+                  >
+                    Harry Potter and the Sorcerer's Stone
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Chris Columbus
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      16 Nov 2001
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.6
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Harry Potter and the Order of the Phoenix"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.harrypotterorderofthephoenix.com/"
+                    target="_blank"
+                  >
+                    Harry Potter and the Order of the Phoenix
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      David Yates
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Daniel Radcliffe, Harry Melling, Jason Boyd, Richard Macklin
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      11 Jul 2007
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.5
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Harry Potter and the Prisoner of Azkaban"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://azkaban.warnerbros.com/"
+                    target="_blank"
+                  >
+                    Harry Potter and the Prisoner of Azkaban
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Alfonso Cuarón
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Daniel Radcliffe, Richard Griffiths, Pam Ferris, Fiona Shaw
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      04 Jun 2004
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.8
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Harry Potter and the Goblet of Fire"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://harrypotter.warnerbros.com/gobletoffire/"
+                    target="_blank"
+                  >
+                    Harry Potter and the Goblet of Fire
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Mike Newell
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Eric Sykes, Timothy Spall, David Tennant, Daniel Radcliffe
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      18 Nov 2005
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.7
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Harry Potter and the Deathly Hallows: Part 1"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.HarryPotter.com/"
+                    target="_blank"
+                  >
+                    Harry Potter and the Deathly Hallows: Part 1
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      David Yates
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Bill Nighy, Emma Watson, Richard Griffiths, Harry Melling
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      19 Nov 2010
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.7
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="When Harry Met Sally..."
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    When Harry Met Sally...
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Rob Reiner
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Billy Crystal, Meg Ryan, Carrie Fisher, Bruno Kirby
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      21 Jul 1989
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.6
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Cars 3"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://movies.disney.com/cars-3"
+                    target="_blank"
+                  >
+                    Cars 3
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Brian Fee
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      16 Jun 2017
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.8
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Cars"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.carsthemovie.com"
+                    target="_blank"
+                  >
+                    Cars
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      John Lasseter, Joe Ranft(co-director)
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      09 Jun 2006
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.2
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Harry Potter and the Half-Blood Prince"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.harrypotter.com/"
+                    target="_blank"
+                  >
+                    Harry Potter and the Half-Blood Prince
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      David Yates
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Daniel Radcliffe, Michael Gambon, Dave Legeno, Elarica Johnson
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      15 Jul 2009
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.6
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Cars 2"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://disney.go.com/cars/"
+                    target="_blank"
+                  >
+                    Cars 2
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      John Lasseter, Brad Lewis(co-director)
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Larry the Cable Guy, Owen Wilson, Michael Caine, Emily Mortimer
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      24 Jun 2011
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.2
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Stealing Cars"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3MDg5Mzg5MV5BMl5BanBnXkFtZTgwMjUyMzA5NzE@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Stealing Cars
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Bradley Kaplan
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Emory Cohen, John Leguizamo, Paul Sparks, Heather Lind
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      05 Apr 2016
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      5.8
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Cars of the Revolution"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BZmE3NGIzZmEtZTBhNi00ZDYzLWJmZjItZWRmMmYzYzVmNTViXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Cars of the Revolution
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Tolga Örnek
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Haluk Bilginer, Taner Birsel, Charles Carroll, Ali Düsenkalkar
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      24 Oct 2008
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      8.0
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="The Cars That Ate Paris"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BNTVmOTdmYTktY2JmNi00YzJmLWJjNGItMjNmOWM1MDM0MjZiL2ltYWdlXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    The Cars That Ate Paris
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Peter Weir
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      John Meillon, Terry Camilleri, Kevin Miles, Rick Scully
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      11 Jun 1976
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      5.6
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Two Cars, One Night"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4NDQ3OTg4M15BMl5BanBnXkFtZTYwMTc3MDM1._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Two Cars, One Night
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Taika Waititi
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Rangi Ngamoki, Hutini Waikato, Te Ahiwaru Ngamoki-Richards, Riwai Waka
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      01 Jan 2004
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.3
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Old Men in New Cars: In China They Eat Dogs II"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0MDc5NzYxOV5BMl5BanBnXkFtZTcwNjAxODAzMQ@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Old Men in New Cars: In China They Eat Dogs II
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Lasse Spang Olsen
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Kim Bodnia, Nikolaj Lie Kaas, Tomas Villum Jensen, Brian Patterson
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      12 Jul 2002
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.8
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Despicable Me"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.despicable.me"
+                    target="_blank"
+                  >
+                    Despicable Me
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Pierre Coffin, Chris Renaud
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Steve Carell, Jason Segel, Russell Brand, Julie Andrews
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      09 Jul 2010
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.7
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Despicable Me 2: 3 Mini-Movie Collection"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BNjAwNzA0NjAyNl5BMl5BanBnXkFtZTgwOTg2MDM4MzE@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Despicable Me 2: 3 Mini-Movie Collection
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      N/A
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      N/A
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      04 Nov 2014
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.5
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Despicable Me 2"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.despicableme.com/"
+                    target="_blank"
+                  >
+                    Despicable Me 2
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Pierre Coffin, Chris Renaud
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      03 Jul 2013
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.4
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Despicable Me 3"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.despicable.me/"
+                    target="_blank"
+                  >
+                    Despicable Me 3
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Kyle Balda, Pierre Coffin, Eric Guillon(co-director)
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Steve Carell, Kristen Wiig, Trey Parker, Miranda Cosgrove
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      30 Jun 2017
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.3
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Despicable Me: Minion Madness"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NjM2MDUxMV5BMl5BanBnXkFtZTgwMDM0NjA2MDE@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Despicable Me: Minion Madness
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Chris Renaud
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Miranda Cosgrove, Dana Gaier, Elsie Fisher, Pierre Coffin
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      14 Dec 2010
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.7
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Despicable Me: Minion Mayhem 3D"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTczYzQ4OTQtNGU2Yy00YTZkLTgwZDUtNzkwMDUwYTI1NWMzXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Despicable Me: Minion Mayhem 3D
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      N/A
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Steve Carell, Miranda Cosgrove, Dana Gaier, Elsie Fisher
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      02 Jul 2012
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.7
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Despicable Me 2: The Music in the Film"
+                  className="card-img-top"
+                  src="N/A"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Despicable Me 2: The Music in the Film
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Chris Renaud Pierre Coffin
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Steve Carell
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      03 Jul 2013
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.7
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="The Brain Hack"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1NzEzNDY5OF5BMl5BanBnXkFtZTgwMTkyMDMwNTE@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    The Brain Hack
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Joseph White
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Edward Franklin, Alexander Owen
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      11 Feb 2015
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.2
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt=".hack//G.U. Trilogy"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BODU4Nzk4NjE4Ml5BMl5BanBnXkFtZTgwODI4NTQxNjE@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    .hack//G.U. Trilogy
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Hiroshi Matsuyama
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Takahiro Sakurai, Ayako Kawasumi, Sanae Kobayashi, Shin'ichirô Miki
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      22 Dec 2007
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      5.9
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Hack!"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5OTg2NjAwOF5BMl5BanBnXkFtZTcwNzc1MDU1MQ@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Hack!
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Matt Flynn
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Kane Hodder, Jay Kenneth Johnson, Travis Schuldt, Gabrielle Richens
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      11 Dec 2007
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      4.0
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Hack-O-Lantern"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BZWQ5ZTAwM2ItNDZlZC00Y2U2LWFlYTYtNDE1Yzc2Mjc2NzE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Hack-O-Lantern
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Jag Mundhra
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Hy Pyke, Gregory Scott Cummins, Katina Garner, Carla Baron
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      25 Mar 1988
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      4.9
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt=".hack//Liminality Vol. 1: In the Case of Mai Minase"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzODk1NDM0MF5BMl5BanBnXkFtZTcwOTk5MzE2MQ@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    .hack//Liminality Vol. 1: In the Case of Mai Minase
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Kôichi Mashimo, Masayuki Yoshihara
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Sanae Kobayashi, Masashi Ebara, Sôichirô Hoshi, Takahiro Sakurai
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      10 Feb 2003
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.0
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt=".hack//Beyond the World"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BZjBmNmIwOTQtMzU4NC00MDk0LWI3ZmYtOWUzMjFiMTY5ZTc2XkEyXkFqcGdeQXVyMzA3NDI5NTQ@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    .hack//Beyond the World
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Hiroshi Matsuyama
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Saki Fujita, Yukari Fukui, Nobuyuki Hiyama, Marina Inoue
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      21 Jan 2012
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.6
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Hack House"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BNTYyODFiNDctY2IxNS00N2E4LWIzZDktNTA3ZDBlNzEyNjU4XkEyXkFqcGdeQXVyMTkyMDk3NTM@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Hack House
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Brandon Fisher
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      James Howarth, Brittany Joan White, Brandon Fisher, Shaun Michael Chilton
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      14 Jun 2017
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      3.6
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="The Lord of the Rings: The Two Towers"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMDY0NmI4ZjctN2VhZS00YzExLTkyZGItMTJhOTU5NTg4MDU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.lordoftherings.net/"
+                    target="_blank"
+                  >
+                    The Lord of the Rings: The Two Towers
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Peter Jackson
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Bruce Allpress, Sean Astin, John Bach, Sala Baker
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      18 Dec 2002
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      8.7
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="The Lord of the Rings: The Fellowship of the Ring"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.lordoftherings.net/film/trilogy/thefellowship.html"
+                    target="_blank"
+                  >
+                    The Lord of the Rings: The Fellowship of the Ring
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Peter Jackson
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      19 Dec 2001
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      8.8
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Lord of War"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlZWI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="http://www.lordofwarthemovie.com/"
+                    target="_blank"
+                  >
+                    Lord of War
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Andrew Niccol
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Nicolas Cage, Bridget Moynahan, Jared Leto, Shake Tukhmanyan
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      16 Sep 2005
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.6
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Lord of the Flies"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BOTI2NTQyODk0M15BMl5BanBnXkFtZTcwNTQ3NDk0NA@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Lord of the Flies
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Harry Hook
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Balthazar Getty, Chris Furrh, Danuel Pipoly, James Badge Dale
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      16 Mar 1990
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.4
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="The Lord of the Rings"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BOGMyNWJhZmYtNGQxYi00Y2ZjLWJmNjktNTgzZWJjOTg4YjM3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    The Lord of the Rings
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Ralph Bakshi
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Christopher Guard, William Squire, Michael Scholes, John Hurt
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      15 Nov 1978
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.2
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Lord of the Flies"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BOGEwYTlhMTgtODBlNC00ZjgzLTk1ZmEtNmNkMTEwYTZiM2Y0XkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Lord of the Flies
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Peter Brook
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      James Aubrey, Tom Chapin, Hugh Edwards, Roger Elwin
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      13 Aug 1963
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      7.0
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Lord of Illusions"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BNDg1OTc0MDQwNl5BMl5BanBnXkFtZTcwMjQ3NDk0NA@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Lord of Illusions
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Clive Barker
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Scott Bakula, Kevin J. O'Connor, Joseph Latimore, Sheila Tousey
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      25 Aug 1995
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.1
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Greystoke: The Legend of Tarzan, Lord of the Apes"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MzcwOTg4MF5BMl5BanBnXkFtZTgwOTQwMzQxMDE@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Greystoke: The Legend of Tarzan, Lord of the Apes
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Hugh Hudson
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Ralph Richardson, Ian Holm, James Fox, Christopher Lambert
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      30 Mar 1984
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      6.4
+                    </small>
+                  </p>
+                </div>
+              </div>
+              <div
+                className="border w-25 p-3 m-1 mx-auto"
+              >
+                <img
+                  alt="Something the Lord Made"
+                  className="card-img-top"
+                  src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzNTE0NjU4N15BMl5BanBnXkFtZTcwNjgyNDcyMQ@@._V1_SX300.jpg"
+                />
+                <div
+                  className="card-body"
+                >
+                  <a
+                    className="card-title"
+                    href="N/A"
+                    target="_blank"
+                  >
+                    Something the Lord Made
+                  </a>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Director:
+                      </b>
+                       
+                      Joseph Sargent
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Actors:
+                      </b>
+                       
+                      Alan Rickman, Yasiin Bey, Kyra Sedgwick, Gabrielle Union
+                    </small>
+                  </p>
+                  <p
+                    className="m-0"
+                  >
+                    <small>
+                      <b>
+                        Released:
+                      </b>
+                       
+                      30 May 2004
+                      , 
+                      <b>
+                        IMDB Rating:
+                      </b>
+                       
+                      8.3
+                    </small>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
