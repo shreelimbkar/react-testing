@@ -13,8 +13,8 @@ class App extends Component {
       <div className="container-fluid">
         <div className="row">
           <div className="col-md-12">
-            <nav class="navbar navbar-light bg-light">
-              <span class="navbar-brand mb-0 h1">Movies</span>
+            <nav className="navbar navbar-light bg-light">
+              <span className="navbar-brand mb-0 h1">Movies</span>
             </nav>
           </div>
         </div>

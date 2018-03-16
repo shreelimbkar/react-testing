@@ -4,7 +4,7 @@ import Single from './Single';
 export default class Grid extends Component {
   renderList() {
     return this.props.items.map((item) => (
-      <Single key={item.id} item={item}/>
+      <Single key={item.imdbID} item={item}/>
     ));
   }
 
