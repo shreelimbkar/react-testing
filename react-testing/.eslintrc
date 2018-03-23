@@ -1,0 +1,10 @@
+{
+    "extends": "rallycoding",
+    "settings": {
+    "import/no-resolver": {
+      "node": {
+        "extensions": [".js",".jsx",".vue"]
+      }
+    }
+  }
+}

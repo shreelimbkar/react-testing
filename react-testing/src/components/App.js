@@ -1,3 +1,4 @@
+/*eslint import/no-unresolved: off*/
 import React, { Component } from 'react';
 import './App.css';
 import Grid from './listings/Grid';
@@ -21,7 +22,7 @@ class App extends Component {
 
         <div className="row">
           <div className="col-md-12">
-            <Grid items={this.state.movies}/>
+            <Grid items={this.state.movies} />
           </div>
         </div>
       </div>
