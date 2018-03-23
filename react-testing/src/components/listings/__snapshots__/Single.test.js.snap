@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Single snapshots Single Snapshot test 1`] = `
+<div
+  className="border w-25 p-3 m-1 mx-auto"
+>
+  <img
+    alt="Harry Potter and the Chamber of Secrets"
+    className="card-img-top"
+    src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <a
+      className="card-title"
+      href="http://harrypotter.warnerbros.com/"
+      target="_blank"
+    >
+      Harry Potter and the Chamber of Secrets
+    </a>
+    <p
+      className="m-0"
+    >
+      <small>
+        <b>
+          Director:
+        </b>
+         
+        Chris Columbus
+      </small>
+    </p>
+    <p
+      className="m-0"
+    >
+      <small>
+        <b>
+          Actors:
+        </b>
+         
+        Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Griffiths
+      </small>
+    </p>
+    <p
+      className="m-0"
+    >
+      <small>
+        <b>
+          Released:
+        </b>
+         
+        15 Nov 2002
+        , 
+        <b>
+          IMDB Rating:
+        </b>
+         
+        7.4
+      </small>
+    </p>
+  </div>
+</div>
+`;
